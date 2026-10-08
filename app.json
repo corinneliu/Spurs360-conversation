@@ -1,0 +1,10 @@
+{
+  "name": "spurs360",
+  "stack": "fir",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "dyno-1c-0.5gb"
+    }
+  }
+}
